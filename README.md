@@ -58,14 +58,10 @@ HRMS is a user-friendly and efficient solution that streamlines the entire renta
 
 We welcome contributions from the open-source community. Whether you're a developer, designer, or documentation enthusiast, you can help us improve this project. Please read our [Contribution Guidelines](CONTRIBUTING.md) for more information.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-Have questions or need assistance? Feel free to reach out to us at [your email or contact info].
-
+Have questions or need assistance? Feel free to reach out to us at _0010A
 ## Live Demo
 
 Explore a live demo of the House Rental Management System [here](insert-demo-link).
